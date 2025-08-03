@@ -4,7 +4,7 @@ I thrive on turning data into meaningful insights and building intelligent syste
 
 🌍  I'm based in Multan, Pakistan
 
-🖥️  See my portfolio at [AsadN](asad-naseer.github.io/asadn.github.io)
+🖥️  See my portfolio at [AsadN](https://www.asad-naseer.github.io/asadn.github.io)
 
 ✉️  You can contact me at asadn66r6@gmail.com
 
