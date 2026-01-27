@@ -1,6 +1,6 @@
 # Hi 👋 My name is Asad Naseer
 ## I'm a ML and Software Engineer.
-I thrive on turning data into meaningful insights and building intelligent systems that make a real-world impact. With growing expertise in Machine Learning, Deep Learning, and Big Data technologies, I’m constantly exploring new ways to combine my technical skills with creativity to solve challenging problems. My journey in tech started with curiosity and has grown into a commitment to mastering AI-driven solutions, whether it's through building neural networks, analyzing massive datasets, or learning how to deploying models for real-world applications.
+I thrive on turning ideas into functional, user-friendly software and building applications that make a real-world impact. With growing expertise in full-stack development, particularly JavaScript, React, Node.js, and related technologies, I’m constantly exploring new ways to combine my technical skills with creativity to solve challenging problems. My journey in tech started with curiosity and has grown into a commitment to mastering modern software development, whether it’s building responsive front-end interfaces, developing scalable back-end systems, or deploying web applications for real-world use.
 
 🌍  I'm based in Multan, Pakistan
 
