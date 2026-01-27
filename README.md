@@ -4,8 +4,6 @@ I thrive on turning ideas into functional, user-friendly software and building a
 
 🌍  I'm based in Multan, Pakistan
 
-🖥️  See my portfolio at [AsadN](https://asad-naseer.github.io/asadn.github.io/)
-
 ✉️  You can contact me at asadn66r6@gmail.com
 
 🤝  I'm open to collaborating on Projects.
