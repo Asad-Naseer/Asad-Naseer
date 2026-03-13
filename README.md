@@ -1,5 +1,5 @@
 # Hi 👋 My name is Asad Naseer
-## I really like Software.
+## I really like Software
 I thrive on turning ideas into functional, user-friendly software and building applications that make a real-world impact. With growing expertise in full-stack development, particularly JavaScript, React, Node.js, and related technologies, I’m constantly exploring new ways to combine my technical skills with creativity to solve challenging problems. My journey started with curiosity and has grown into a commitment to mastering modern software development, whether it’s building responsive front-end interfaces, developing scalable back-end systems, or deploying web applications for real-world use.
 
 🌍  I'm based in Multan, Pakistan
